@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class 나머지10430 {
+//나머지
+public class Remainder {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
