@@ -56,12 +56,12 @@ GCD 합(GcdSum) 9613
 
 
 그래프
-ABCDE 13023
-DFS와 BFS 1260
-연결요소 11724
-이분그래프 1707
-단지번호붙이기 2667
-섬의 개수 4963
+ABCDE(Abcde) 13023
+DFS와 BFS(Dfs) 1260
+연결요소(Connect) 11724
+이분그래프(BinaryGraph) 1707
+단지번호붙이기(Number) 2667
+섬의 개수(Islands) 4963
 
 
 BFS
