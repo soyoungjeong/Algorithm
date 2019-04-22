@@ -22,7 +22,7 @@ public class Goldbach {
                 if(isPrime(i)){
                     a = i;
                     if(isPrime(n - a)){
-                        b = n -a;
+                        b = n-a;
                         System.out.println(n + " = " + a + " + " + b);
                         break;
                     }
