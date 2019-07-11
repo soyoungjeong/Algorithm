@@ -34,7 +34,7 @@ public class WordMath {
         }
 
 
-        //이부분 원래 내가 했던대로 하면 시간초과 ㅠㅠ 
+        //이부분 원래 내가 했던대로 하면 시간초과 ㅠㅠ
         for (String s : a) {
             int now = 0;
             for (char x : s.toCharArray()) {

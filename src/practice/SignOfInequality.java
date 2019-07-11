@@ -48,7 +48,7 @@ public class SignOfInequality {
         }
 
         Collections.sort(list);
-        System.out.println(list.get(list.size()-1));
+         System.out.println(list.get(list.size()-1));
         System.out.println(list.get(0));
     }
 }
