@@ -1,11 +1,10 @@
-#basic
-
+###basic
 백준 온라인 알고리즘 강의 기초 문제
 
-#jmbook
+###jmbook
 
 알고리즘 문제해결 전략 문제
 
-#practice
+###practice
 
 백준 온라인 알고리즘 강의 연습 문제
