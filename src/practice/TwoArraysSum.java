@@ -17,16 +17,6 @@ public class TwoArraysSum {
         return list;
     }
 
-    static int countExist(ArrayList<Integer> list, int n){
-        int cnt = 0;
-        for(int i=0; i<list.size(); i++){
-            if(list.get(i)== n){
-                cnt += 1;
-            }
-        }
-        return cnt;
-
-    }
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
