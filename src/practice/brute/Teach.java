@@ -1,4 +1,4 @@
-package practice;
+package practice.brute;
 import java.util.*;
 
 public class Teach {

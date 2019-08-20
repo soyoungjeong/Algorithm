@@ -1,4 +1,4 @@
-package practice;
+package practice.brute;
 
 import java.lang.reflect.Array;
 import java.util.*;

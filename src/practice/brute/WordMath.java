@@ -1,4 +1,4 @@
-package practice;
+package practice.brute;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package practice.BFS;
+package practice.bfs;
 
 import java.util.*;
 
